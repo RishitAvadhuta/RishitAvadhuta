@@ -1,16 +1,23 @@
-## Hi there 👋
+## Rishit Avadhuta
+### Class of 2026, Massachusetts Academy of Math and Science
 
-<!--
-**RishitAvadhuta/RishitAvadhuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a dude who loves to program sometimes.
 
-Here are some ideas to get you started:
+#### Prior experience:
+- AI/ML projects in Python/R (XGBoost, Regression)
+- Web Development (Personal website available at https://users.wpi.edu/~ravadhuta1/)
+- Statistical analysis in R and Python
+- Simulation development
+- Game Development in Unity
+- Linux Administration in Ubuntu (Cyberpatriot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages:
+Backend:
+- Python
+- R
+- Java
+- Learning C# in Unity Game Development
+Frontend:
+- HTML
+- CSS
+- JS
