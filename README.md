@@ -8,6 +8,7 @@ Hi! I'm a dude who loves to program sometimes.
 - AI/ML projects in Python/R (XGBoost, Regression)
 - Web Development (Personal website available at https://users.wpi.edu/~ravadhuta1/)
 - Statistical analysis in R and Python
+- Genomic Analysis using R and Scala
 - Simulation development
 - Game Development in Unity
 - Linux Administration in Ubuntu (Cyberpatriot)
@@ -18,7 +19,8 @@ Backend:
 - Python
 - R
 - Java
-- Learning C# in Unity Game Development
+- C# (Unity Game Development)
+- Learning Scala (Genomic Analysis)
 
 Frontend:
 - HTML
