@@ -11,7 +11,7 @@ Hi! I'm a dude who loves to program sometimes.
 - Genomic Analysis using R and Scala
 - Simulation development
 - Game Development in Unity
-- Linux Administration in Ubuntu (Cyberpatriot)
+- Linux Administration in Ubuntu (CyberPatriot Semifinals Qualifier)
 
 #### Languages:
 
