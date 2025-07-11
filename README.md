@@ -23,6 +23,8 @@ Backend:
 - Learning Scala (Genomic Analysis)
 
 Frontend:
+- NextJS
+- React
 - HTML
 - CSS
 - JS
